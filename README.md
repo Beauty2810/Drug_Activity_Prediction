@@ -15,9 +15,9 @@ Drugs are typically small organic molecules that achieve their desired activity 
 ![archh](https://user-images.githubusercontent.com/108837678/192789888-351d3b79-4772-4a5f-b209-14de96020bbe.PNG)
 
 # Deployment
-![UI dep](https://user-images.githubusercontent.com/108837678/192790646-67037b43-eb0b-48be-a7e7-28433aa595ff.PNG)
+<img width="496" alt="upload_img" src="https://github.com/Beauty2810/Drug_Activity_Prediction/assets/108981162/c7cd95f6-6d5a-48a3-b6b5-444d11d240bb">
 
-![UI edicted](https://user-images.githubusercontent.com/108837678/192791253-ecb90338-cddd-4cb5-96bd-45a8f2d4bec2.PNG)
+<img width="521" alt="result_img" src="https://github.com/Beauty2810/Drug_Activity_Prediction/assets/108981162/90056d67-a8f3-4c06-a412-4aed60b40800">
 
 # Authors
 
