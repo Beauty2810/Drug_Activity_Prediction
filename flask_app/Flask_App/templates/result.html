@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Result</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        margin-top: 50px;
+        color: #333;
+      }
+      .result {
+        font-size: 24px;
+        margin-top: 50px;
+      }
+      .result.active {
+        color: red;
+      }
+      .result.inactive {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Result</h1>
+    <div class="result {{ output|lower }}">
+      {{ output }}
+    </div>
+  </body>
+</html>
+
+
+
